@@ -1,4 +1,4 @@
-# student-performance-prediction
+
 Student Performance Prediction
 Overview
 This project predicts student math scores using linear regression on the "Students Performance in Exams" Kaggle dataset. It includes feature engineering, model evaluation, and an interactive Streamlit dashboard to visualize results and make predictions based on user input.
@@ -31,7 +31,7 @@ streamlit
 
 Setup Instructions
 
-Clone the repository:git clone https://github.com/yourusername/student-performance-prediction.git
+Clone the repository:git clone https://github.com/bhanup23/student-performance-prediction.git
 cd student-performance-prediction
 
 
@@ -75,9 +75,7 @@ Incorporate more feature engineering (e.g., interaction terms).
 
 Author
 
-Your Name
-GitHub: yourusername
-Email: your.email@example.com
+Bhanu Pratap
+GitHub: bhanup23
+Email: bhanubhardwaj9801@gmail.com
 
-License
-MIT License
