@@ -52,7 +52,7 @@ Connect to Streamlit Community Cloud and select the repository.
 Ensure requirements.txt and the dataset are included.
 
 
-Live Demo: (Add your Streamlit URL here, e.g., https://your-student-performance.streamlit.app).
+Live Demo: (https://student-performance-prediction-jgygcpbk44braje2bupymc.streamlit.app/).
 
 Project Structure
 
